@@ -1,5 +1,5 @@
-use bm65_db
-switched to db bm65_db
+use Mydb
+switched to db Mydb
 
 db.Student.insert({_id:1,name:"Michael",grade:"VII",hobbies:"reading"})
 WriteResult({ "nInserted" : 1 })
